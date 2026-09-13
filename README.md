@@ -236,18 +236,36 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+
+
+support
+
+
+👥 Team — SparkVerse
+
+Built by Team SparkVerse (@LOCURA-SIH) for Smart India Hackathon 2026.
+
+Name                    	GitHub
+
+Sreeja Goundla         @sreejagoundla-coder
+Sindhu Reddy	         @sindhureddy6
+Kairakonda Jashwanth	 @jashwanthkairamkonda
+Shaiinit Varsha	       @shaiinitvarsha
+Akshaya Kotha          @AkshayaKotha15
+Varshini Reddy	       @varshinireddy1711
+
+
+
+## 📄 License
+
+This project was built for Smart India Hackathon 2026. License to be determined by the team.
+
+---
+
+**Built with ❤️ for safer communities.**
+
+
