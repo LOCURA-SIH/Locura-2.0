@@ -6,6 +6,13 @@ Built for **Smart India Hackathon 2026**.
 
 ---
 
+## LIVE DEMO 
+  👉   https://locura-2-0.vercel.app
+
+----
+
+
+
 ## 📋 Table of Contents
 
 - [Problem Statement](#-problem-statement)
