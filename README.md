@@ -249,18 +249,17 @@ support
 
 Built by Team SparkVerse (@LOCURA-SIH) for Smart India Hackathon 2026.
 
-Name                    	GitHub
 
 Sreeja Goundla                   @sreejagoundla-coder  
-|
+    |
 Sindhu Reddy	                   @sindhureddy6
-|
+     |      
 Kairakonda Jashwanth	           @jashwanthkairamkonda  
-|
+    |
 Shaiinit Varsha	                 @shaiinitvarsha  
-|
+   |
 Akshaya Kotha                    @AkshayaKotha15
-|
+   |
 Varshini Reddy	                 @varshinireddy1711
 
 
