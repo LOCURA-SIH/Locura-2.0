@@ -16,7 +16,6 @@
     "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
-    "@rollup/rollup-win32-x64-msvc": "^4.63.1",
     "@types/geojson": "^7946.0.16",
     "@types/leaflet": "^1.9.14",
     "@types/node": "^22.10.2",
