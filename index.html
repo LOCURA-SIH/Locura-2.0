@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#1F497D" />
+    <meta name="description" content="LOCURA 2.0 - Intelligent Community Emergency Safety Network for Solo Travelers, Women, and Vulnerable Groups" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <title>LOCURA 2.0 — Emergency Safety Network</title>
+    <script type="module" crossorigin src="/assets/index-BY9LsNw1.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-SgeNayyV.css">
+  </head>
+  <body class="bg-[#F4F7F8] text-slate-800 antialiased selection:bg-rose-500 selection:text-white min-h-screen">
+    <div id="root"></div>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch((err) => {
+            console.log('ServiceWorker registration optional notice:', err);
+          });
+        });
+      }
+    </script>
+  </body>
+</html>

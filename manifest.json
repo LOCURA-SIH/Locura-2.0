@@ -1,0 +1,16 @@
+﻿{
+  "short_name": "LOCURA 2.0",
+  "name": "LOCURA 2.0 Emergency Safety Network",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1F497D",
+  "theme_color": "#1F497D",
+  "display": "standalone",
+  "orientation": "portrait"
+}
